@@ -1,0 +1,11 @@
+2021-12-17 13:40:01,714 Message logged along with time
+2021-12-17 13:40:05,366 Hello World
+2021-12-17 13:40:05,366 This the first warning
+2021-12-17 13:40:05,367 This the error message
+2021-12-17 13:40:05,368 This message is critical
+2021-12-17 13:40:13,777 Divide by Zero occured
+2021-12-17 13:40:13,778 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-9-7478d8496654>", line 4, in test
+    div=a/b
+ZeroDivisionError: division by zero
