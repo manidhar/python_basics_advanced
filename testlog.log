@@ -1,0 +1,5 @@
+INFO:root:Hello World
+WARNING:root:This the first warning
+ERROR:root:This the error message
+CRITICAL:root:This message is critical
+INFO:root:Message logged along with time

@@ -1,0 +1,29 @@
+2021-12-17 13:40:01,714 Message logged along with time
+2021-12-17 13:40:05,366 Hello World
+2021-12-17 13:40:05,366 This the first warning
+2021-12-17 13:40:05,367 This the error message
+2021-12-17 13:40:05,368 This message is critical
+2021-12-17 13:40:13,777 Divide by Zero occured
+2021-12-17 13:40:13,778 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-9-7478d8496654>", line 4, in test
+    div=a/b
+ZeroDivisionError: division by zero
+2021-12-17 13:41:22,104 (1, 2, 3, 5)
+2021-12-17 13:41:22,105 sum so far : 1
+2021-12-17 13:41:22,106 sum so far : 3
+2021-12-17 13:41:22,106 sum so far : 6
+2021-12-17 13:41:22,106 sum so far : 11
+2021-12-17 13:41:22,107 (1, 2, 3, 6)
+2021-12-17 13:41:22,107 sum so far : 1
+2021-12-17 13:41:22,124 sum so far : 3
+2021-12-17 13:41:22,124 sum so far : 6
+2021-12-17 13:41:22,125 sum so far : 12
+2021-12-17 13:41:22,125 (1, 2, 3, 7)
+2021-12-17 13:41:22,125 sum so far : 1
+2021-12-17 13:41:22,126 sum so far : 3
+2021-12-17 13:41:22,126 sum so far : 6
+2021-12-17 13:41:22,126 sum so far : 13
+2021-12-17 13:41:25,107 (1, 2, 3, 5)
+2021-12-17 13:41:25,108 (1, 2, 3, 6)
+2021-12-17 13:41:25,109 (1, 2, 3, 7)
